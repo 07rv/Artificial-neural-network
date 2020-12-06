@@ -17,3 +17,23 @@ A “shallow” neural network has only three layers of neurons:<br/>
 <p align="center">
    <img src="image/network.jpg" height="200"/>
 </p>
+
+## Predicting whether a person leave the bank or not using keras 
+
+<b>Data set</b>
+The data set contain 10,000 samples of the cutomers containing different parameters.<br/>
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited.<br/>
+Independent Variables: <br/>
+  CreditScore <br/>
+  Geography<br/>
+  Gender <br/>
+  Age <br/>
+  Tenure <br/>
+  Balance<br/>
+  NumOfProducts<br/>
+  HasCrCard<br/>
+  IsActiveMember<br/>
+  EstimatedSalary<br/>
+  
+  Dependent Variables:<br/>
+   Exited<br/>
